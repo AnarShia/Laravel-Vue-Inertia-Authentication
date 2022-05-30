@@ -1,0 +1,13 @@
+1)config database;
+2)migrate database
+3)make model: Admin -make
+4)copy model User-to Company+defie guard
+5)prepare auth.php
+6)copy http auth controler
+- Authsescontrol
+--> Routeservicerouter 
+--> LoginRequest
+7)Set registered user controller
+8) web.php
+9)companyauth.php
+10)Config vue files
